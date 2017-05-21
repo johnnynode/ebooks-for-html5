@@ -1,7 +1,8 @@
 # 下载链接 [Download Links]
 
 > 提示：暂不支持直接在github打开，请下载后查看!<br>
-> Tips: browse pdf file directly on github not supported yet, here are download links!
+> Tips here: Direct browsing pdf file on github is not perfect supported yet in consequence of the file size. <br>
+> Please view the download links below:
 
 - [HTML5 in Action.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-html5/master/HTML5 in Action.pdf)
 - [HTML5- Up and Running.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-html5/master/HTML5- Up and Running.pdf)
