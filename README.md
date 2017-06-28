@@ -11,3 +11,4 @@
 - [HTML5触摸界面设计与开发.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-html5/master/HTML5触摸界面设计与开发.pdf)
 - [WebGL自修教程.chm](https://raw.githubusercontent.com/johnnynode/ebooks-html5/master/WebGL自修教程.chm)
 - [《HTML5从入门到精通》中文学习教程.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-html5/master/《HTML5从入门到精通》中文学习教程.pdf)
+- [THREE.JS开发指南.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-html5/master/THREE.JS开发指南.pdf)
